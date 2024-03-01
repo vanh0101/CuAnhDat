@@ -1,0 +1,14 @@
+E:\C Sharp\cuanhdat\cuanhdat\bin\Debug\net8.0\cuanhdat.exe
+E:\C Sharp\cuanhdat\cuanhdat\bin\Debug\net8.0\cuanhdat.deps.json
+E:\C Sharp\cuanhdat\cuanhdat\bin\Debug\net8.0\cuanhdat.runtimeconfig.json
+E:\C Sharp\cuanhdat\cuanhdat\bin\Debug\net8.0\cuanhdat.dll
+E:\C Sharp\cuanhdat\cuanhdat\bin\Debug\net8.0\cuanhdat.pdb
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.AssemblyInfoInputs.cache
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.AssemblyInfo.cs
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.csproj.CoreCompileInputs.cache
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.dll
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\refint\cuanhdat.dll
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.pdb
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\cuanhdat.genruntimeconfig.cache
+E:\C Sharp\cuanhdat\cuanhdat\obj\Debug\net8.0\ref\cuanhdat.dll
